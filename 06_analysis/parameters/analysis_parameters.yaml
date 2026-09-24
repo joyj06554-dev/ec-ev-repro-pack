@@ -1,0 +1,50 @@
+project: "EC-EV bibliometric and altmetric study"
+package_version: "1.0"
+
+search:
+  database: "Web of Science Core Collection"
+  search_date: "2025-06-10"
+  query_1_result: 255638
+  query_2_result: 71178
+  query_3: "#1 AND #2"
+  query_3_result: 5367
+  query_4: "(DT=(Article) OR DT=(Review)) AND PY=(2004-2025) AND LA=(English)"
+  query_4_result: 30642369
+  query_5: "#3 AND #4"
+  query_5_result: 4974
+  combined_refinement_removed: 393
+  record_level_identity_of_removed_records: "not_retained"
+
+final_dataset:
+  n_records: 4974
+  language: "English"
+  publication_years: "2004-2025"
+  allowed_document_classes:
+    - "Article"
+    - "Review"
+  export_format: "WoS plain text"
+  export_fields: "Full Record and Cited References"
+
+scope_classification:
+  rule: "membership in verified WoS query #5"
+  label: "EC_EV_FINAL_SCOPE"
+  additional_manual_thematic_labels: "not_documented_in_supplied_materials"
+
+keyword_dictionary:
+  source_field: "DE (Author Keywords)"
+  public_dictionary: "raw terms and frequencies"
+  original_synonym_thesaurus: "not_supplied"
+  retrospective_synonym_inference: false
+
+altmetric:
+  source: "Altmetric Explorer"
+  export_date: "2025-07-08"
+
+software:
+  versions_file: "software_versions.txt"
+
+reproducibility_notes:
+  - "Database contents evolve; later reruns may yield different counts."
+  - "Bulk raw WoS exports are not redistributed in this public package."
+  - "Original 5,367-record pre-refinement export was not retained."
+  - "GUI-analysis parameters not preserved in supplied materials are not reconstructed."
