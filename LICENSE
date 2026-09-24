@@ -1,0 +1,11 @@
+EC-EV Reproducibility Package — Licensing Notice
+
+This repository contains materials released under different licenses.
+
+1. Original analysis and validation scripts in `06_analysis/scripts/` are licensed under the MIT License. See `LICENSE-CODE`.
+
+2. Original documentation and author-generated derived data tables in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See `LICENSE-DATA-DOCS`.
+
+3. Third-party database content is not relicensed. In particular, bulk Web of Science records and other third-party materials remain subject to their original database/provider terms and are excluded from the grants above. The public repository intentionally does not redistribute the bulk WoS Full Record and Cited References exports.
+
+Where a file contains third-party material, the third-party rights and applicable terms take precedence for that material.
