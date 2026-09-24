@@ -1,0 +1,6 @@
+step_id,database,date,query,record_count,evidence_status,source
+#1,Web of Science Core Collection,2025-06-10,"TS=(""endothelial cell*"" OR ""endothelium*"" OR ""vascular endothelial cell*"" OR ""capillary endothelial cell*"" OR ""lymphatic endothelial cell*"" OR ""endothelial progenitor cell*"" OR ""circulating endothelial progenitor cell*"" OR ""hemangioblast*"" OR ""hemogenic endothel*"" OR ""human umbilical vein endothelial cell*"" OR ""HUVEC*"" OR ""podosome*"" OR ""invadopodia*"" OR ""invadosome*"" OR ""invadopodium*"")",255638,verified_from_supplementary_table_2,Supplementary Table 2 image
+#2,Web of Science Core Collection,2025-06-10,"TS=(""extracellular vesicle*"" OR ""exosome*"" OR ""cell-derived exosome*"" OR ""nanovesicle*"" OR ""exosomal*"")",71178,verified_from_supplementary_table_2,Supplementary Table 2 image
+#3,Web of Science Core Collection,2025-06-10,#1 AND #2,5367,verified_from_supplementary_table_2,Supplementary Table 2 image
+#4,Web of Science Core Collection,2025-06-10,(DT=(Article) OR DT=(Review)) AND PY=(2004-2025) AND LA=(English),30642369,verified_from_supplementary_table_2,Supplementary Table 2 image
+#5,Web of Science Core Collection,2025-06-10,#3 AND #4,4974,verified_from_supplementary_table_2,Supplementary Table 2 image
