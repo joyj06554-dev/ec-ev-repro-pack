@@ -1,4 +1,4 @@
-metric,value,status
+﻿metric,value,status
 total_records,4974,verified/derived
 unique_wos_ut,4974,derived
 missing_wos_ut,0,derived
