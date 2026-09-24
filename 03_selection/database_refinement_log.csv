@@ -1,4 +1,4 @@
-stage_id,operation,records_before,records_after,records_removed,record_level_provenance,status
+﻿stage_id,operation,records_before,records_after,records_removed,record_level_provenance,status
 S1,#1 AND #2,255638,5367,,not_applicable,verified
 S2,Apply combined WoS filter: Article OR Review; publication year 2004–2025; English,5367,4974,393,not_retained,verified_aggregate_only
 S3,Final dataset exported as Full Record and Cited References,4974,4974,0,retained_for_final_records,verified
