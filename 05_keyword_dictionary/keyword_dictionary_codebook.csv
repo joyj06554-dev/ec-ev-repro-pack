@@ -1,4 +1,4 @@
-field,definition
+﻿field,definition
 raw_author_keyword,Keyword exactly as extracted from the WoS DE (Author Keywords) field
 frequency,Number of final records containing the extracted raw keyword token under the package parser
 dictionary_status,Indicates that the row is raw and has not been synonym-merged
