@@ -1,0 +1,7 @@
+# Do not commit licensed/private raw database exports
+private_raw/
+raw_wos/
+*.tmp
+__pycache__/
+.DS_Store
+Thumbs.db
