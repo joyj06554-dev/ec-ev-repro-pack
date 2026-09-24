@@ -1,4 +1,4 @@
-field,definition,notes
+﻿field,definition,notes
 record_id,Stable package-specific record identifier,EC_EV_000001 through EC_EV_004974
 doi,Digital Object Identifier when present,Lower-cased; blank when DOI was absent in source export
 title_sha256,SHA-256 hash of the source-record title,Allows integrity/matching without redistributing the title string
