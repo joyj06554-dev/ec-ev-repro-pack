@@ -18,3 +18,5 @@ Release metadata frozen for v1.0:
 - Affiliation: The Second Affiliated Hospital of Chongqing Medical University
 - Licensing: MIT (scripts) + CC BY 4.0 (documentation/derived data), excluding third-party database content
 - Associated article DOI: not yet assigned
+
+- Reserved Zenodo DOI: 10.5281/zenodo.22941308 (registered on publication)
