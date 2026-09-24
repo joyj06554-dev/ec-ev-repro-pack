@@ -1,0 +1,10 @@
+field,definition,notes
+record_id,Stable package-specific record identifier,EC_EV_000001 through EC_EV_004974
+doi,Digital Object Identifier when present,Lower-cased; blank when DOI was absent in source export
+title_sha256,SHA-256 hash of the source-record title,Allows integrity/matching without redistributing the title string
+publication_year,WoS publication year,Final dataset restricted to 2004–2025
+document_class,Article or Review,Derived from WoS document type
+language,Publication language,English for all final records
+scope_label,Operational scope label,EC_EV_FINAL_SCOPE = satisfies final WoS query #5
+final_inclusion,Final dataset membership label,All rows are include
+provenance_status,Evidence status for inclusion,"Verified member of supplied final 4,974-record export"
