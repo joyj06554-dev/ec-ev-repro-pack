@@ -5,11 +5,11 @@ The scientific/methodological content of v1.0 is frozen. The following account- 
 - [ ] Repository creators/authors in publication order
 - [ ] ORCID identifiers where available
 - [ ] Affiliations
-- [ ] GitHub repository URL
+- [x] GitHub repository URL — https://github.com/joyj06554-dev/ec-ev-repro-pack
 - [ ] Associated article title and DOI, if assigned
 - [ ] Repository license
 - [ ] Zenodo version-specific DOI after reservation/publication
 - [ ] Funding/grant metadata if desired
 - [ ] Contact/corresponding-author information if desired
 
-Do not guess these fields from filenames, account names or prior drafts. They should match the final manuscript and author-approved metadata.
+Do not guess the remaining fields from filenames, account names or prior drafts. They should match the final manuscript and author-approved metadata.
