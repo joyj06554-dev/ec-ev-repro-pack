@@ -1,0 +1,30 @@
+Supplementary Table 2. Search strategy
+
+Database: Web of Science Core Collection
+Search date: 2025-06-10
+
+#1
+TS=("endothelial cell*" OR "endothelium*" OR "vascular endothelial cell*" OR "capillary endothelial cell*" OR "lymphatic endothelial cell*" OR "endothelial progenitor cell*" OR "circulating endothelial progenitor cell*" OR "hemangioblast*" OR "hemogenic endothel*" OR "human umbilical vein endothelial cell*" OR "HUVEC*" OR "podosome*" OR "invadopodia*" OR "invadosome*" OR "invadopodium*")
+Result: 255,638
+
+#2
+TS=("extracellular vesicle*" OR "exosome*" OR "cell-derived exosome*" OR "nanovesicle*" OR "exosomal*")
+Result: 71,178
+
+#3
+#1 AND #2
+Result: 5,367
+
+#4
+(DT=(Article) OR DT=(Review)) AND PY=(2004-2025) AND LA=(English)
+Result: 30,642,369
+
+#5
+#3 AND #4
+Result: 4,974
+
+Source evidence:
+01_search/evidence/Supplementary_Table_2_Search_Strategy.png
+
+Transcription note:
+The strings above were transcribed directly from the supplied Supplementary Table 2 image. Quotation marks, truncation wildcards (*), field tags, logical operators, and parentheses were preserved.
