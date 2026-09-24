@@ -80,6 +80,19 @@ Expected headline checks:
 3. GUI-analysis settings that were not preserved in the supplied materials are marked as not retained rather than reconstructed.
 4. Database contents evolve, so rerunning the same query at a later date may not reproduce historical result counts exactly.
 
-## Citation and release metadata
+## Creator
 
-Before the first public release, complete `RELEASE_METADATA_REQUIRED.md`, choose a repository license, and populate `CITATION.cff.template`. After Zenodo publication, insert the version-specific DOI and GitHub URL into this README and the manuscript Data Availability statement.
+- **Honglin Jiang** — ORCID: 0000-0001-6012-8071
+- Affiliation: The Second Affiliated Hospital of Chongqing Medical University
+
+## Licensing
+
+- Original scripts in `06_analysis/scripts/`: **MIT License**.
+- Original documentation and author-generated derived data tables: **CC BY 4.0**.
+- Third-party database content, including Web of Science records, is excluded from these grants and remains subject to the relevant provider terms.
+
+See `LICENSE`, `LICENSE-CODE`, and `LICENSE-DATA-DOCS`.
+
+## Citation
+
+Citation metadata are provided in `CITATION.cff`. The associated article DOI has not yet been assigned. A Zenodo version DOI will be added to the live repository metadata after archival.
