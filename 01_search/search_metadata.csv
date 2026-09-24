@@ -1,0 +1,14 @@
+field,value,status
+database,Web of Science Core Collection,verified
+search_date,2025-06-10,verified
+search_set_1_count,255638,verified
+search_set_2_count,71178,verified
+combined_search_count_3,5367,verified
+filter_universe_count_4,30642369,verified
+timespan,2004–2025,verified
+language,English,verified
+document_type_filter,Article OR Review,verified
+combined_filter_exclusions,393,derived from #3 - #5
+final_records,4974,verified
+export_format,plain text,verified
+export_fields,Full Record and Cited References,verified
