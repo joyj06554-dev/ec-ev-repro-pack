@@ -1,6 +1,8 @@
 # Changelog
 
 ## v1.0
+- Finalized creator, ORCID, affiliation, mixed-license files, and Zenodo metadata.
+- Standardized Figure 1 to the original high-resolution TIF in the public repository.
 - Reorganized the audit build into a public-release repository structure.
 - Preserved the fully verified WoS #1–#5 search strategy and primary evidence.
 - Reframed the 5,367 → 4,974 change as an aggregate database-refinement step.
