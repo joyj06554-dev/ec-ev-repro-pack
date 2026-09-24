@@ -12,6 +12,7 @@ Key decisions:
 - Raw author keywords are preserved without inventing a retrospective synonym thesaurus.
 - Audit scripts are separated from any claim about the original software workflow.
 
+
 Release metadata frozen for v1.0:
 - Creator: Honglin Jiang (ORCID 0000-0001-6012-8071)
 - Affiliation: The Second Affiliated Hospital of Chongqing Medical University
