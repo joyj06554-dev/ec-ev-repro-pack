@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the archived v1.0 record and the associated article when available."
+title: "EC-EV Reproducibility Package"
+version: "1.0"
+type: dataset
+authors:
+  - family-names: "Jiang"
+    given-names: "Honglin"
+    orcid: "https://orcid.org/0000-0001-6012-8071"
+    affiliation: "The Second Affiliated Hospital of Chongqing Medical University"
+repository-code: "https://github.com/joyj06554-dev/ec-ev-repro-pack"
+keywords:
+  - bibliometrics
+  - altmetrics
+  - endothelial cells
+  - extracellular vesicles
+  - reproducibility
