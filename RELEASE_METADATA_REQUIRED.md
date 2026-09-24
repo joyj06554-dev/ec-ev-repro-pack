@@ -8,6 +8,6 @@ The scientific/methodological content and authorship metadata for v1.0 are froze
 - [x] GitHub repository: https://github.com/joyj06554-dev/ec-ev-repro-pack
 - [x] Licensing: MIT for original scripts; CC BY 4.0 for original documentation and author-generated derived data; third-party database content excluded
 - [ ] Associated article DOI: not yet assigned; update when available
-- [ ] Zenodo version DOI: pending archival/publication
+- [x] Zenodo version DOI reserved: 10.5281/zenodo.22941308 (registration completes on Zenodo publication)
 
-The remaining DOI fields are intentionally unresolved at the GitHub pre-release stage and should not be guessed.
+The associated article DOI remains unassigned. The Zenodo DOI above is reserved for this v1.0 deposit and should not be changed unless the Zenodo draft itself is discarded and recreated.
