@@ -22,7 +22,7 @@ bibliometrics; altmetrics; endothelial cells; extracellular vesicles; Web of Sci
 Associated article DOI: [ADD WHEN AVAILABLE]
 
 **GitHub repository**  
-[ADD URL]
+https://github.com/joyj06554-dev/ec-ev-repro-pack
 
 **License**  
 [AUTHOR TO SELECT BEFORE PUBLIC RELEASE]
