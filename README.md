@@ -95,4 +95,4 @@ See `LICENSE`, `LICENSE-CODE`, and `LICENSE-DATA-DOCS`.
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The associated article DOI has not yet been assigned. A Zenodo version DOI will be added to the live repository metadata after archival.
+Citation metadata are provided in `CITATION.cff`. The associated article DOI has not yet been assigned. The reserved Zenodo version DOI for v1.0 is **10.5281/zenodo.22941308** (https://doi.org/10.5281/zenodo.22941308); it becomes registered/resolvable when the Zenodo record is published.
