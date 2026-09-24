@@ -1,6 +1,7 @@
 # Changelog
 
 ## v1.0
+- Added reserved Zenodo DOI `10.5281/zenodo.22941308` to citation and data-availability metadata.
 - Finalized creator, ORCID, affiliation, mixed-license files, and Zenodo metadata.
 - Standardized Figure 1 to the original high-resolution TIF in the public repository.
 - Reorganized the audit build into a public-release repository structure.
