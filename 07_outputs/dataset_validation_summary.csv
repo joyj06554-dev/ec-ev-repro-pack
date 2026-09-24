@@ -1,0 +1,13 @@
+metric,value,status
+total_records,4974,verified/derived
+unique_wos_ut,4974,derived
+missing_wos_ut,0,derived
+doi_present,4923,derived
+unique_doi,4923,derived
+duplicate_doi,0,derived
+unique_titles,4974,derived
+article_class_records,3669,derived
+review_class_records,1305,derived
+english_records,4974,derived
+unique_sources,1045,derived
+raw_author_keyword_terms,9047,derived
