@@ -1,0 +1,8 @@
+Software reported in Figure 1
+VOSviewer: v1.6.20
+CiteSpace: v6.3.R1
+Bibliometrix: shown as "Bibliometrix (R v4.2.2)"
+HistCite Pro: v2.1
+Alluvial Generator: version not shown
+JCR: 2024
+Altmetric Explorer export: 8 July 2025
